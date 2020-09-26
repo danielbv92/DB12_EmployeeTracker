@@ -1,0 +1,23 @@
+{
+  "name": "db12_employeetracker",
+  "version": "1.0.0",
+  "description": "A simple app used to manage departments. roles and employees in the company.",
+  "main": "department.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbv92/DB12_EmployeeTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielbv92/DB12_EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/danielbv92/DB12_EmployeeTracker#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
